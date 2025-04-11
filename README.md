@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1>Hello, I'm Orion!
 
-<!--
-**orionvantran/orionvantran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Data Analyst Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Data Cleaning and Transformation</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   -
+- <b>Data Analysis</b>
+
+   -
+- <b>Data Visualization</b>
+
+  - 
+
+
+<h2>📺 Certificates </h2>
+
+-
+
+<h2> 🤳 Connect with me:</h2>
+<img align="left" width="22px" alt="Orion Tran | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin]
+
+[linkedin]: https://linkedin.com/in/orion-t
