@@ -18,6 +18,4 @@
 -
 
 <h2> 🤳 Connect with me:</h2>
-<img align="left" width="22px" alt="Orion Tran | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin]
-
-[linkedin]: https://linkedin.com/in/orion-t
+<img align="left" width="22px" alt="Orion Tran | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />https://linkedin.com/in/orion-t
