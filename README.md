@@ -22,7 +22,13 @@
 
 <h2>📺 Certificates</h2>
 
-- *Coming soon*
+<ul>
+  <li><b><a href="https://www.udemy.com/certificate/UC-daebe878-aadc-4243-988b-ad48e93e7454/" target="_blank">
+    The Complete SQL Bootcamp: Go from Zero to Hero
+  </a></b></li>
+  <li><b>Master Excel Power Query, Power Pivot & DAX for advanced data analysis & business intelligence </b></li>
+  <li><b>Learn Tableau Desktop for data analysis, visualization & dashboard design, and build fun Tableau projects & dashboards! </b></li>
+</ul>
 
 ---
 
