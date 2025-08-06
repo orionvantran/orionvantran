@@ -23,11 +23,18 @@
 <h2>📺 Certificates</h2>
 
 <ul>
-  <li><b><a href="https://www.udemy.com/certificate/UC-daebe878-aadc-4243-988b-ad48e93e7454/" target="_blank">
-    The Complete SQL Bootcamp: Go from Zero to Hero
+  <li><b><a href="https://www.coursera.org/account/accomplishments/specialization/3A580RUDIHU5" target="_blank">
+    Google Data Analytics Professional Certificate (Coursera)
   </a></b></li>
-  <li><b>Master Excel Power Query, Power Pivot & DAX for advanced data analysis & business intelligence </b></li>
-  <li><b>Learn Tableau Desktop for data analysis, visualization & dashboard design, and build fun Tableau projects & dashboards! </b></li>
+  <li><b><a href="https://www.udemy.com/certificate/UC-be623841-1685-4ee5-a1ed-59ffdf3ab659" target="_blank">
+    Excel Power Query, Power Pivot & DAX (Udemy)
+  </a></b></li>
+  <li><b><a href="https://www.udemy.com/certificate/UC-99c6589a-319b-4fe6-8296-e0d0db205db9" target="_blank">
+    Tableau Desktop Dashboards (Udemy)
+  </a></b></li>
+  <li><b><a href="https://www.udemy.com/certificate/UC-daebe878-aadc-4243-988b-ad48e93e7454/" target="_blank">
+    The Complete SQL Bootcamp: Go from Zero to Hero (Udemy)
+  </a></b></li>
 </ul>
 
 ---
