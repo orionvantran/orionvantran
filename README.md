@@ -1,5 +1,7 @@
-<h1>Hello, I'm Orion!</h1>
+<h1>Hello! My name's Orion! </h1>
+<p>Welcome to my data analytics portfolio — where I turn raw data into useful insights.</p>
 
+<h2>🧰 Technical Skills</h2>
 <p>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -11,12 +13,23 @@
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
-- <b>Data Cleaning and Transformation</b>  
-   - *Coming soon*
-- <b>Data Analysis</b>  
-   - *Coming soon*
-- <b>Data Visualization</b>  
-   - *Coming soon*
+- <b>Employee Turnover Analysis (R + IBM HR Dataset)</b>  
+  - 🛠️ In Progress  
+  - <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tidyverse-999999?style=flat-square&logo=r&logoColor=white" />
+    <img src="https://img.shields.io/badge/ggplot2-999999?style=flat-square&logo=r&logoColor=white" />
+
+- <b>Vendor Spend Dashboard (Excel)</b>  
+  - 🛠️ In Progress  
+  - <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Power%20Query-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+    <img src="https://img.shields.io/badge/DAX-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+
+- <b>School Budget Visualization (Tableau)</b>  
+  - 🛠️ In Progress  
+  - <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+    <img src="https://img.shields.io/badge/Data%20Visualization-000000?style=flat-square&logo=visual-studio-code&logoColor=white" />
+
 
 ---
 
